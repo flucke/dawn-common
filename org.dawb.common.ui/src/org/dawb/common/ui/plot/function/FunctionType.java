@@ -36,6 +36,7 @@ public enum FunctionType {
 	GAUSSIAN("Gaussian"),
 //	GAUSSIAN_ND(GaussianND.class),
 	LORENTZIAN("Lorentzian"),
+	LORENTZIANSQR("LorentzianSqr"),
 //	OFFSET(Offset.class),
 	PEARSON_VII("PearsonVII"),
 	POLYNOMIAL("Polynomial"),
